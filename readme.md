@@ -14,4 +14,4 @@
 
 ### 开发计划
 #### 第一版
-> 基于laravel8+vue3-js+ant design
+> 基于laravel8+react-js+ant design
